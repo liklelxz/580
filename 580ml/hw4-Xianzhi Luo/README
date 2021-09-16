@@ -1,0 +1,5 @@
+just run:
+	
+	python kmean.py
+	
+(Need install Numpy)
